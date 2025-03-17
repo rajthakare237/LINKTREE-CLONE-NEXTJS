@@ -38,7 +38,7 @@ A **Linktree clone** built using **Next.js**, enabling users to create and manag
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/linktree-clone.git
+git clone https://github.com/rajthakare237/LINKTREE-CLONE-NEXTJS.git
 cd linktree-clone
 ```
 
