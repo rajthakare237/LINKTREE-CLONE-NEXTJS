@@ -1,8 +1,11 @@
 # 🔗 Linktree Clone - Built with Next.js
 
-![Home](https://drive.google.com/uc?export=view&id=10x3skQzIksp1sX0xJRRw5p03Vi1CYnYV)  
-![Profile Page](https://drive.google.com/uc?export=view&id=1vd6-R9bg5-QF10rx5GFY3NCLUuM0KpOX)  
-![Customization](https://drive.google.com/uc?export=view&id=12V9o_ZQqgJ5UL6cRpWTJeUs-qL_jmiWH)  
+![image1](https://drive.google.com/uc?export=view&id=1uJchx3lLOMnl7MqwjDXgW_j-YlZKq7AT)  
+---  
+![image2](https://drive.google.com/uc?export=view&id=1AKxCapN3AP4Xs-oJlukhScCDOxw1p06P)  
+---  
+![image3](https://drive.google.com/uc?export=view&id=1wufhpdGqL1rWyhKXIkz1C-QEZ0yeR_3p)  
+---
 
 A **Linktree clone** built using **Next.js**, enabling users to create and manage a **personalized bio link page** with multiple links. This project features a **responsive design** using **Tailwind CSS** for an optimized user experience.
 
