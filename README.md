@@ -10,8 +10,6 @@ A **Linktree clone** built using **Next.js**, enabling users to create and manag
 
 - 🌐 **Personalized Bio Link Page**
 - 🔗 **Multiple Links Management**
-- 🎨 **Customizable User Interface**
-- 🌙 **Dark Mode Support**
 - 📱 **Fully Responsive Design**
 - 🚀 **Optimized Performance with Next.js**
 - 💾 **MongoDB Database Integration**
